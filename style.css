@@ -1,0 +1,19 @@
+#container {
+    width: 400px;
+    height: 200px;
+    border: 5px solid #1c9322;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+#container>span {
+    font-size: 50px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.star-filled {
+    background-color: yellow;
+}
